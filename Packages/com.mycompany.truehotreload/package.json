@@ -1,0 +1,31 @@
+{
+  "name": "com.mycompany.truehotreload",
+  "version": "0.1.0",
+  "displayName": "True Hot Reload",
+  "description": "Commercial-quality Unity Editor package delivering true C# hot reload in Play Mode without domain reload, scene reload, or exiting Play Mode. Preserves game state while updating method implementations.",
+  "unity": "2022.3",
+  "unityRelease": "0f1",
+  "keywords": [
+    "hot reload",
+    "live coding",
+    "runtime patching",
+    "productivity",
+    "editor",
+    "development"
+  ],
+  "author": {
+    "name": "Your Company",
+    "email": "support@yourcompany.com",
+    "url": "https://yourcompany.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/unity-hot-reloading.git"
+  },
+  "license": "MIT",
+  "documentationUrl": "https://github.com/yourusername/unity-hot-reloading#readme",
+  "changelogUrl": "https://github.com/yourusername/unity-hot-reloading/blob/main/Packages/com.mycompany.truehotreload/CHANGELOG.md",
+  "licensesUrl": "https://github.com/yourusername/unity-hot-reloading/blob/main/LICENSE",
+  "type": "tool",
+  "hideInEditor": false
+}

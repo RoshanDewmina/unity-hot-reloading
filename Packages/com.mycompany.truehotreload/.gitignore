@@ -1,0 +1,20 @@
+# Unity
+*.meta
+
+# IDE
+.vscode/
+.idea/
+*.csproj
+*.sln
+
+# Logs
+*.log
+
+# Temp
+Temp/
+Logs/
+
+# Build artifacts
+Library/
+Obj/
+Build/

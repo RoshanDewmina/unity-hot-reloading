@@ -1,0 +1,24 @@
+{
+  "name": "TrueHotReload.Editor",
+  "rootNamespace": "TrueHotReload.Editor",
+  "references": [
+    "TrueHotReload.Runtime"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": true,
+  "precompiledReferences": [
+    "0Harmony.dll",
+    "MonoMod.RuntimeDetour.dll",
+    "MonoMod.Utils.dll",
+    "Microsoft.CodeAnalysis.dll",
+    "Microsoft.CodeAnalysis.CSharp.dll"
+  ],
+  "autoReferenced": false,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
