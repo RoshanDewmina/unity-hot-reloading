@@ -210,7 +210,7 @@ For **each DLL** you just added:
 > - Show a helpful dialog with download buttons
 > - Automatically configure platform settings
 > 
-> Track progress in [GitHub Issues](https://github.com/yourusername/unity-hot-reloading/issues)
+> Track progress in [GitHub Issues](https://github.com/RoshanDewmina/unity-hot-reloading/issues)
 
 ---
 
@@ -246,7 +246,7 @@ For your convenience, here are direct links to tested compatible versions:
 
 If you encounter issues not covered here:
 
-1. Check the [GitHub Issues](https://github.com/yourusername/unity-hot-reloading/issues)
+1. Check the [GitHub Issues](https://github.com/RoshanDewmina/unity-hot-reloading/issues)
 2. Enable **Verbose Logging** in **Project Settings → True Hot Reload**
 3. Check Unity Console for detailed error messages
 4. Report issues with your Unity version and error logs

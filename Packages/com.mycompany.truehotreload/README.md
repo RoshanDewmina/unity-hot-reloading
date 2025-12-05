@@ -22,14 +22,14 @@ Perfect for:
 2. Click **"+"** → **Add package from git URL**
 3. Enter this URL:
    ```
-   https://github.com/yourusername/unity-hot-reloading.git?path=/Packages/com.mycompany.truehotreload
+   https://github.com/RoshanDewmina/unity-hot-reloading.git?path=/Packages/com.mycompany.truehotreload
    ```
 4. Click **Add**
 
 > [!TIP]
 > **Install Specific Version**: Append a version tag to lock to a specific release:
 > ```
-> https://github.com/yourusername/unity-hot-reloading.git?path=/Packages/com.mycompany.truehotreload#v0.1.0
+> https://github.com/RoshanDewmina/unity-hot-reloading.git?path=/Packages/com.mycompany.truehotreload#v0.1.0
 > ```
 
 #### 2. Install External Dependencies (One-Time Setup)
@@ -76,7 +76,7 @@ Add to your project's `Packages/manifest.json`:
 ```json
 {
   "dependencies": {
-    "com.mycompany.truehotreload": "https://github.com/yourusername/unity-hot-reloading.git?path=/Packages/com.mycompany.truehotreload#v0.1.0"
+    "com.mycompany.truehotreload": "https://github.com/RoshanDewmina/unity-hot-reloading.git?path=/Packages/com.mycompany.truehotreload#v0.1.0"
   }
 }
 ```

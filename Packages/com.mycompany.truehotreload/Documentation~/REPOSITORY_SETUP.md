@@ -29,7 +29,7 @@ Update `package.json` to reflect your GitHub username:
 
 ```json
 {
-  "name": "com.yourusername.truehotreload",
+  "name": "com.RoshanDewmina.truehotreload",
   ...
 }
 ```
@@ -40,11 +40,11 @@ Also update the repository URLs in `package.json`:
 {
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/unity-hot-reloading.git"
+    "url": "https://github.com/RoshanDewmina/unity-hot-reloading.git"
   },
-  "documentationUrl": "https://github.com/yourusername/unity-hot-reloading#readme",
-  "changelogUrl": "https://github.com/yourusername/unity-hot-reloading/blob/main/Packages/com.yourusername.truehotreload/CHANGELOG.md",
-  "licensesUrl": "https://github.com/yourusername/unity-hot-reloading/blob/main/LICENSE"
+  "documentationUrl": "https://github.com/RoshanDewmina/unity-hot-reloading#readme",
+  "changelogUrl": "https://github.com/RoshanDewmina/unity-hot-reloading/blob/main/Packages/com.RoshanDewmina.truehotreload/CHANGELOG.md",
+  "licensesUrl": "https://github.com/RoshanDewmina/unity-hot-reloading/blob/main/LICENSE"
 }
 ```
 
@@ -105,11 +105,11 @@ git commit -m "Initial commit: True Hot Reload v0.1.0"
 
 ### 2.4 Push to GitHub
 
-Replace `yourusername` with your actual GitHub username:
+Replace `RoshanDewmina` with your actual GitHub username:
 
 ```bash
 git branch -M main
-git remote add origin https://github.com/yourusername/unity-hot-reloading.git
+git remote add origin https://github.com/RoshanDewmina/unity-hot-reloading.git
 git push -u origin main
 ```
 
@@ -148,12 +148,12 @@ git push origin v0.1.0
 
    **If package is in root:**
    ```
-   https://github.com/yourusername/unity-hot-reloading.git
+   https://github.com/RoshanDewmina/unity-hot-reloading.git
    ```
 
    **If package is in subfolder (recommended structure):**
    ```
-   https://github.com/yourusername/unity-hot-reloading.git?path=/Packages/com.yourusername.truehotreload
+   https://github.com/RoshanDewmina/unity-hot-reloading.git?path=/Packages/com.RoshanDewmina.truehotreload
    ```
 
 5. Click **Add**
@@ -164,7 +164,7 @@ git push origin v0.1.0
 Users can install specific versions using Git tags:
 
 ```
-https://github.com/yourusername/unity-hot-reloading.git?path=/Packages/com.yourusername.truehotreload#v0.1.0
+https://github.com/RoshanDewmina/unity-hot-reloading.git?path=/Packages/com.RoshanDewmina.truehotreload#v0.1.0
 ```
 
 ---
@@ -222,7 +222,7 @@ Your repository README should include clear installation instructions. Add this 
 
 1. Open Unity Package Manager: **Window → Package Manager**
 2. Click **"+"** → **Add package from git URL**
-3. Enter: `https://github.com/yourusername/unity-hot-reloading.git?path=/Packages/com.yourusername.truehotreload`
+3. Enter: `https://github.com/RoshanDewmina/unity-hot-reloading.git?path=/Packages/com.RoshanDewmina.truehotreload`
 4. Click **Add**
 
 #### Install Specific Version
@@ -230,14 +230,14 @@ Your repository README should include clear installation instructions. Add this 
 To install a specific version, append the version tag:
 
 ```
-https://github.com/yourusername/unity-hot-reloading.git?path=/Packages/com.yourusername.truehotreload#v0.1.0
+https://github.com/RoshanDewmina/unity-hot-reloading.git?path=/Packages/com.RoshanDewmina.truehotreload#v0.1.0
 ```
 
 ### External Dependencies
 
 ⚠️ **Important**: After installing the package, you must install external DLLs (one-time setup).
 
-See [Dependency Installation Guide](./Packages/com.yourusername.truehotreload/Documentation~/DEPENDENCY_INSTALLER.md) for detailed instructions.
+See [Dependency Installation Guide](./Packages/com.RoshanDewmina.truehotreload/Documentation~/DEPENDENCY_INSTALLER.md) for detailed instructions.
 ```
 
 ---
@@ -280,7 +280,7 @@ git push origin v0.2.0
 Share this URL with users:
 
 ```
-https://github.com/yourusername/unity-hot-reloading.git?path=/Packages/com.yourusername.truehotreload
+https://github.com/RoshanDewmina/unity-hot-reloading.git?path=/Packages/com.RoshanDewmina.truehotreload
 ```
 
 ### Documentation
@@ -300,7 +300,7 @@ For wider discoverability, consider publishing to [OpenUPM](https://openupm.com/
 2. Submit a pull request to the OpenUPM registry
 3. Once approved, users can install via:
    ```bash
-   openupm add com.yourusername.truehotreload
+   openupm add com.RoshanDewmina.truehotreload
    ```
 
 ---

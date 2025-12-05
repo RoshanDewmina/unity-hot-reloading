@@ -43,7 +43,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 When installing via Git URL, you can specify a version using Git tags:
 
 ```
-https://github.com/yourusername/unity-hot-reloading.git?path=/Packages/com.mycompany.truehotreload#v0.1.0
+https://github.com/RoshanDewmina/unity-hot-reloading.git?path=/Packages/com.mycompany.truehotreload#v0.1.0
 ```
 
 Replace `v0.1.0` with the desired version tag.

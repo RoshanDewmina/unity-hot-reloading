@@ -22,7 +22,7 @@ Perfect for:
 1. **Install Package via Git URL**
    - Open Unity Package Manager: **Window → Package Manager**
    - Click **"+"** → **Add package from git URL**
-   - Enter: `https://github.com/yourusername/unity-hot-reloading.git?path=/Packages/com.mycompany.truehotreload`
+   - Enter: `https://github.com/RoshanDewmina/unity-hot-reloading.git?path=/Packages/com.mycompany.truehotreload`
 
 2. **Install Dependencies** (one-time setup)
    - Download required DLLs ([detailed guide](./Packages/com.mycompany.truehotreload/Documentation~/DEPENDENCY_INSTALLER.md))

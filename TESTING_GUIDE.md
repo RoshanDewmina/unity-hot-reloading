@@ -22,7 +22,7 @@ This is how end-users will install your package. **Use this to test the real use
 
 1. Push your package to GitHub (see [Repository Setup Guide](./Packages/com.mycompany.truehotreload/Documentation~/REPOSITORY_SETUP.md))
 2. In Unity: **Window → Package Manager → + → Add package from git URL**
-3. Enter: `https://github.com/yourusername/unity-hot-reloading.git?path=/Packages/com.mycompany.truehotreload`
+3. Enter: `https://github.com/RoshanDewmina/unity-hot-reloading.git?path=/Packages/com.mycompany.truehotreload`
 
 **Pros**: Tests the actual installation flow users will experience  
 **Cons**: Requires GitHub repository setup first
@@ -51,7 +51,7 @@ This is faster for rapid development iteration.
 2. Click **"+"** → **Add package from git URL**
 3. Enter your Git URL:
    ```
-   https://github.com/yourusername/unity-hot-reloading.git?path=/Packages/com.mycompany.truehotreload
+   https://github.com/RoshanDewmina/unity-hot-reloading.git?path=/Packages/com.mycompany.truehotreload
    ```
 4. Click **Add**
 5. Wait for Unity to clone and install the package

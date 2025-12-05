@@ -20,12 +20,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/unity-hot-reloading.git"
+    "url": "https://github.com/RoshanDewmina/unity-hot-reloading.git"
   },
   "license": "MIT",
-  "documentationUrl": "https://github.com/yourusername/unity-hot-reloading#readme",
-  "changelogUrl": "https://github.com/yourusername/unity-hot-reloading/blob/main/Packages/com.mycompany.truehotreload/CHANGELOG.md",
-  "licensesUrl": "https://github.com/yourusername/unity-hot-reloading/blob/main/LICENSE",
+  "documentationUrl": "https://github.com/RoshanDewmina/unity-hot-reloading#readme",
+  "changelogUrl": "https://github.com/RoshanDewmina/unity-hot-reloading/blob/main/Packages/com.mycompany.truehotreload/CHANGELOG.md",
+  "licensesUrl": "https://github.com/RoshanDewmina/unity-hot-reloading/blob/main/LICENSE",
   "type": "tool",
   "hideInEditor": false
 }
